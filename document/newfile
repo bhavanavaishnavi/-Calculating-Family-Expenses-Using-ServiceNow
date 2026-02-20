@@ -1,7 +1,0 @@
-PROJECT DOCUMENT
-Calculating Family Expenses Using ServiceNow
-1. Introduction
-Managing household expenses manually can lead to errors, lack of tracking, and financial mismanagement. 
-The project “Calculating Family Expenses Using ServiceNow” is designed to create a structured and automated expense management system using the ServiceNow platform.
-This system allows users to record daily expenses and automatically calculate consolidated family expenses using table relationships and business rules. 
-The project demonstrates how ServiceNow can be customized to build real-world business applications beyond IT Service Management (ITSM).
